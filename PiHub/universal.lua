@@ -1,7 +1,7 @@
 local lplayer = game:GetService("Players").LocalPlayer
-loadstring(game:HttpGet("https://pi-hub.pages.dev/loading/a.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/screengui/cracks/refs/heads/main/PiHub/a.lua"))()
 
-local Library = loadstring(game:HttpGet("https://pi-hub.pages.dev/lib/ui.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/screengui/cracks/refs/heads/main/PiHub/ui.lua",true))()
 local Players = game:GetService("Players")
 
 -- find icons here https://www.roblox.com/users/2050262468/inventory/#!/decals (make sure to get their textureid!)
