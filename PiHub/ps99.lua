@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://pi-hub.pages.dev/lib/ui.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/screengui/cracks/refs/heads/main/PiHub/ui.lua",true))()
 
 local Main = Library:Create("Pi Hub - Pet Simulator 99")
 local TabH = Main.MakeTab("Pi Hub - Pet Simulator 99 (Home)", 18899804355)
