@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://pi-hub.pages.dev/lib/ui.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/screengui/cracks/refs/heads/main/PiHub/ui.lua",true))()
 
 local Main = Library:Create("Pi Hub - BladeBall")
 local TabH = Main.MakeTab("Pi Hub - BladeBall (Home)", 18899804355)
