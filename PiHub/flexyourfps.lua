@@ -7,7 +7,7 @@ local maxFPSToSubtract = 10
 local realistic = false
 local constant = false
 
-local Library = loadstring(game:HttpGet("https://pi-hub.pages.dev/lib/ui.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/screengui/cracks/refs/heads/main/PiHub/ui.lua",true))()
 
 local Main = Library:Create("Pi Hub - Flex Your FPS")
 local TabH = Main.MakeTab("Pi Hub - Flex Your FPS (Home)", 18899804355)
