@@ -9,7 +9,7 @@ for _, v in ipairs(CoreGui:GetDescendants()) do
 		
 		for _, obj in ipairs(frame:GetDescendants()) do
 			if obj:IsA("TextBox") then
-				obj.Text = "poizniscute"
+				obj.Text = "rengokutufficl"
 			end
 		end
 		
